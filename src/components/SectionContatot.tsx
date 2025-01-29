@@ -52,7 +52,7 @@ export function SectionContato() {
           </button>
         </form>
       </div>
-      <img src={banerContato} alt="Imagem" className="absolute -bottom-300 right-0 w-[710px]" />
+      <img src={banerContato} alt="Imagem" className="absolute -bottom-600 right-0 w-[710px]" />
     </section>
   );
 }
