@@ -16,7 +16,7 @@ export function SectionHero() {
           Experiências visuais que cativam e impulsionam resultados!
         </p>
         <div className="flex gap-4 mt-16 mx-40">
-          <button className="w-40 h-12 rounded-md bg-gradient-to-r z-30 from-[#C961DE] to-[#2954A3] shadow-lg]">
+          <button className="w-40 h-12 rounded-md z-30 bg-gradient-to-r from-[#C961DE] to-[#2954A3] shadow-lg]">
             Vamos Conversar
           </button>
         </div>
